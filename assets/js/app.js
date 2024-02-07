@@ -1,4 +1,5 @@
-let myAge = 29;
+
+//*let myAge = 29;
 let myName = "Alex";
 let myShoesize = 45;
 
